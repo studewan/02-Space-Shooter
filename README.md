@@ -1,4 +1,4 @@
-# Godot-Template
+# 02-Space-Shooter
 For use in MSCH-C220
 
 A Godot Project Template, for use in future projects.
@@ -13,5 +13,5 @@ None
 ## Future Development
 None
 
-## Created by
+## Created by 
 Stuti Dewan
